@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('race-car.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 40px;
+}
+
+.game-info {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    margin: 20px auto;
+    display: inline-block;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
